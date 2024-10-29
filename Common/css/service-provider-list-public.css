@@ -1,0 +1,24 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.single-service-member .service-meta .title {
+	display: block;
+	margin-bottom: 5px;
+}
+
+.single-service-member .service-meta svg {
+	width: 18px;
+	height: 18px;
+	margin-right: 5px;
+}
+
+.single-service-member .service-content {
+	margin-top: 1.5em;
+}
+
+/** Hide single service image on twentyseventeen **/
+.single-service-member .single-featured-image-header {
+	display: none;
+}
